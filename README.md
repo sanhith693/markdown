@@ -1,1 +1,1 @@
-Lets go to amazon <https://www.amazon.com>
+![Delete](images/delete.gif)
